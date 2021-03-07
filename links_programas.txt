@@ -1,0 +1,17 @@
+Python
+https://www.python.org/
+
+Base de datos: Postgres
+https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+Administrador de base de datos: dbeaver
+https://dbeaver.io/
+
+Editor: pycharm
+https://www.jetbrains.com/es-es/pycharm/download/#section=windows
+
+Git
+https://git-scm.com/
+
+Visual c++
+https://go.microsoft.com/fwlink/?LinkId=691126
